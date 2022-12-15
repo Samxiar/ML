@@ -1,11 +1,13 @@
 # ML Algorithms
 
-Linear_Regression_Single_Variable
+- Decision Tree
 
-Logistic_Regression
+- Linear_Regression_Single_Variable
 
-Logistic regression Multiclass
+- Logistic_Regression
 
-Multivariate Regression 1
+- Logistic regression Multiclass
 
-Multivariate Regression 2
+- Multivariate Regression 1
+
+- Multivariate Regression 2
