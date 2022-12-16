@@ -11,3 +11,7 @@
 - Multivariate Regression 1
 
 - Multivariate Regression 2
+
+- Support Vector Machine
+
+- Random Forest
