@@ -15,3 +15,5 @@
 - Support Vector Machine
 
 - Random Forest
+
+- K Fold Cross
