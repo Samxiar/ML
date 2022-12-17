@@ -1,19 +1,21 @@
 # ML Algorithms
 
-- Decision Tree
+- Decision Tree.
 
-- Linear_Regression_Single_Variable
+- Linear_Regression_Single_Variable.
 
-- Logistic_Regression
+- Logistic_Regression.
 
-- Logistic regression Multiclass
+- Logistic regression Multiclass.
 
-- Multivariate Regression 1
+- Multivariate Regression 1.
 
-- Multivariate Regression 2
+- Multivariate Regression 2.
 
-- Support Vector Machine
+- Support Vector Machine.
 
-- Random Forest
+- Random Forest.
 
-- K Fold Cross
+- K Fold Cross.
+
+- K Means Clustering. 
